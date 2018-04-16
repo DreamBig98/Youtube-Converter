@@ -89,7 +89,7 @@ And for the specifics on that, you can look at the `extractActions()` function i
 
 
 # Tests
-Tests are written with [mocha](http://visionmedia.github.com/mocha/)
+Tests are written with [mocha](http://mochajs.org/)
 
 ```bash
 npm test
